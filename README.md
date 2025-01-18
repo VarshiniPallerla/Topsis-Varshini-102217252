@@ -3,6 +3,11 @@
 Made By: **Varshini Pallerla**  
 Roll No: **102217252**
 
+## PyPI Project
+
+[Topsis-Varshini-102217252](https://pypi.org/project/Topsis-Varshini-102217252/1.0.0/)
+
+
 ## Description
 
 The TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a multi-criteria decision-making method used to rank alternatives based on their similarity to an ideal solution. The TOPSIS Python Package is a library that provides an easy-to-use implementation of this method, helps in selecting the best alternative from a set of alternatives based on their performance across multiple criteria.
@@ -10,7 +15,7 @@ The TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a
 ## Installation
 
 You can install the package using pip:
-pip install topsis-varshinipallerla
+pip install Topsis-Varshini-102217252==1.0.0
 
 ## Usage
 
