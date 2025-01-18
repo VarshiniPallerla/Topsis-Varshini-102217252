@@ -25,9 +25,6 @@ python topsis.py data.csv "1,0,1,0,1" "+,-,+,-,+" output.csv
 
 The output will be saved in a file named output.csv
 
-## Input
-<img width="306" alt="Screenshot 2025-01-18 120831" src="https://github.com/user-attachments/assets/6301c541-d49a-412e-87a2-f86c8b893532" />
-
 
 ## Output
 <img width="407" alt="Screenshot 2025-01-18 120809" src="https://github.com/user-attachments/assets/5e7ed82d-ed73-4078-8223-92a633930941" />
