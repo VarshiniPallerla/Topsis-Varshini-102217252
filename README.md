@@ -10,8 +10,6 @@ The TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a
 ## Installation
 
 You can install the package using pip:
-
-```bash
 pip install topsis-varshinipallerla
 
 ## Usage
