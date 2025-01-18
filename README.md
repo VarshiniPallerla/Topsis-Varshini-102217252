@@ -16,7 +16,7 @@ pip install topsis-varshinipallerla
 
 Use the following command to perform TOPSIS analysis on a dataset:
 
-python topsis.py data.csv "1,0,1,0,1" "+,-,+,-,+"
+python topsis.py data.csv "1,0,1,0,1" "+,-,+,-,+" output.csv
 
 - topsis.py: Python file with code
 - data.csv: Path to the input CSV file containing the dataset.
