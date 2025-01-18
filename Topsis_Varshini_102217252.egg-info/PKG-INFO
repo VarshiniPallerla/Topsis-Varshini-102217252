@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: Topsis-Varshini-102217252
+Version: 1.0.0
+Summary: TOPSIS implementation by Varshini Pallerla
+Home-page: https://github.com/VarshiniPallerla/Topsis-Varshini-102217252/
+Author: Varshini Pallerla
+Author-email: vpallerla_be22@thapar.edu
+License: MIT
+Keywords: Topsis,main,Python,multiclassifier
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+# TOPSIS Python Package
+
+Made By: **Varshini Pallerla**  
+Roll No: **102217252**
+
+## Description
+
+The TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a multi-criteria decision-making method used to rank alternatives based on their similarity to an ideal solution. The TOPSIS Python Package is a library that provides an easy-to-use implementation of this method, helps in selecting the best alternative from a set of alternatives based on their performance across multiple criteria.
+
+## Installation
+
+You can install the package using pip:
+pip install topsis-varshinipallerla
+
+## Usage
+
+Use the following command to perform TOPSIS analysis on a dataset:
+
+python topsis.py data.csv "1,0,1,0,1" "+,-,+,-,+" output.csv
+
+- topsis.py: Python file with code
+- data.csv: Path to the input CSV file containing the dataset.
+- "1,0,1,0,1": Weights for each criterion separated by commas.
+- "+,-,+,-,+": Impacts for each criterion (either + for maximizing or - for minimizing).
+
+The output will be saved in a file named output.csv
+
+
+## Output
+<img width="407" alt="Screenshot 2025-01-18 120809" src="https://github.com/user-attachments/assets/5e7ed82d-ed73-4078-8223-92a633930941" />
+
